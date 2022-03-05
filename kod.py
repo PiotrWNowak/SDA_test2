@@ -1,0 +1,2 @@
+print('wiadomość')
+print('witam')
