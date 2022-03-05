@@ -1,3 +1,3 @@
 print('wiadomość')
-print('witam')
+print('witamy cos')
 print('wow')
